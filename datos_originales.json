@@ -1,0 +1,38 @@
+
+
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Gamer",
+        "categoria": "Electrónica",
+        "precio": 1200.50,
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "Escritorio de Madera",
+        "categoria": "Muebles",
+        "precio": 350.00,
+        "activo": false
+    },
+    {
+        "id": 3,
+        "nombre": "Silla Ergonómica",
+        "categoria": "Muebles",
+        "precio": 180.00,
+        "activo": true
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor 4K",
+        "categoria": "Electrónica",
+        "precio": 450.00,
+        "activo": true
+    },
+    {
+        "id": 5,
+        "nombre": "Teclado Mecánico",
+        "categoria": "Electrónica",
+        "activo": true
+    }
+]
