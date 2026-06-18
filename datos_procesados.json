@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Gamer",
+        "categoria": "Electrónica",
+        "precio": 1200.5,
+        "activo": true,
+        "procesado": true,
+        "margen_calculado": 1380.5749999999998
+    },
+    {
+        "id": 3,
+        "nombre": "Silla Ergonómica",
+        "categoria": "Muebles",
+        "precio": 180.0,
+        "activo": true,
+        "procesado": true,
+        "margen_calculado": 206.99999999999997
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor 4K",
+        "categoria": "Electrónica",
+        "precio": 450.0,
+        "activo": true,
+        "procesado": true,
+        "margen_calculado": 517.5
+    },
+    {
+        "id": 5,
+        "nombre": "Teclado Mecánico",
+        "categoria": "Electrónica",
+        "activo": true,
+        "procesado": true,
+        "margen_calculado": 0.0
+    }
+]
